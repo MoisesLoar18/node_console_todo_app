@@ -12,19 +12,25 @@ Para ejecutarlo solo escribir:
     node app.js
 
 1. Menu
+
 ![](/assets/menu.png)
 
 2. Listar tareas
+
 ![](/assets/listar_tareas.png)
 
 3. Tareas completadas
+
 ![](/assets/tareas_completadas.png)
 
 4. Tareas pendientes
+
 ![](/assets/tareas_pendientes.png)
 
 5. Completar tareas
+
 ![](/assets/completar_tareas.png)
 
 6. Borrar tareas
+
 ![](/assets/borrar_tareas.png)
